@@ -35,5 +35,5 @@ Install [n_](https://www.npmjs.com/package/n_) for Lodash use in the Node.js < 6
 
 ## Support
 
-Tested in Chrome 52-53, Firefox 47-48, IE 11, Edge 14, Safari 8-9, Node.js 4-6, & PhantomJS 2.1.1.<br>
+Tested in Chrome 52-53, Firefox 47-48, IE 11, Edge 14, Safari 9-10, Node.js 4-6, & PhantomJS 2.1.1.<br>
 Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org/lodash/lodash/) test runs are available.
